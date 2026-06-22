@@ -1,0 +1,501 @@
+ID_Venda,Data,Produto,Categoria,Quantidade,Preco_Unitario,Valor_Total,Cliente,Estado
+1,2025-07-19,Cadeira Gamer,Móveis,2,1200,2400,Gabriel,MG
+2,2025-08-18,Notebook,Eletrônicos,5,3500,17500,Julia,PB
+3,2025-08-13,Livro Banco de Dados,Livros,1,120,120,Carlos,RJ
+4,2025-04-28,Teclado Mecânico,Eletrônicos,1,350,350,Gabriel,PB
+5,2025-01-19,Mesa Escritório,Móveis,4,800,3200,Bruno,BA
+6,2025-10-29,Livro Python,Livros,2,90,180,Eduardo,CE
+7,2025-05-24,Teclado Mecânico,Eletrônicos,4,350,1400,Eduardo,SP
+8,2025-01-28,Fone Bluetooth,Eletrônicos,5,250,1250,Gabriel,SP
+9,2025-01-22,Cadeira Gamer,Móveis,2,1200,2400,Bruno,PB
+10,2025-11-20,Livro Banco de Dados,Livros,2,120,240,Carlos,PB
+11,2025-03-09,Fone Bluetooth,Eletrônicos,1,250,250,Fernanda,PB
+12,2025-10-19,Mochila,Acessórios,2,180,360,Eduardo,PB
+13,2025-04-23,Smartphone,Eletrônicos,4,2200,8800,Ana,CE
+14,2025-09-08,Mochila,Acessórios,4,180,720,Gabriel,PE
+15,2025-09-05,Mochila,Acessórios,2,180,360,Carlos,CE
+16,2025-04-08,Livro Python,Livros,4,90,360,Carlos,PB
+17,2025-04-24,Smartphone,Eletrônicos,2,2200,4400,Eduardo,PB
+18,2025-04-30,Mochila,Acessórios,1,180,180,Fernanda,SP
+19,2025-07-08,Fone Bluetooth,Eletrônicos,3,250,750,Carlos,PR
+20,2025-12-24,Cadeira Gamer,Móveis,1,1200,1200,Julia,BA
+21,2025-03-06,Notebook,Eletrônicos,1,3500,3500,Ana,PR
+22,2025-08-30,Curso Online,Educação,4,500,2000,Gabriel,CE
+23,2025-07-30,Notebook,Eletrônicos,2,3500,7000,Igor,CE
+24,2025-10-30,Notebook,Eletrônicos,2,3500,7000,Ana,PR
+25,2025-12-17,Mesa Escritório,Móveis,5,800,4000,Gabriel,BA
+26,2025-10-15,Livro Python,Livros,5,90,450,Eduardo,RJ
+27,2025-04-04,Curso Online,Educação,1,500,500,Eduardo,CE
+28,2025-04-11,Teclado Mecânico,Eletrônicos,5,350,1750,Fernanda,SP
+29,2025-10-07,Livro Banco de Dados,Livros,2,120,240,Bruno,SP
+30,2025-07-23,Fone Bluetooth,Eletrônicos,1,250,250,Eduardo,PB
+31,2025-10-11,Cadeira Gamer,Móveis,4,1200,4800,Gabriel,BA
+32,2025-10-29,Livro Python,Livros,5,90,450,Daniela,MG
+33,2025-09-18,Notebook,Eletrônicos,4,3500,14000,Ana,MG
+34,2025-06-21,Curso Online,Educação,2,500,1000,Gabriel,CE
+35,2025-07-06,Smartphone,Eletrônicos,5,2200,11000,Carlos,MG
+36,2025-02-06,Fone Bluetooth,Eletrônicos,1,250,250,Julia,SP
+37,2025-02-18,Livro Banco de Dados,Livros,4,120,480,Igor,BA
+38,2025-12-31,Notebook,Eletrônicos,3,3500,10500,Igor,MG
+39,2025-12-27,Smartphone,Eletrônicos,3,2200,6600,Helena,SP
+40,2025-04-27,Teclado Mecânico,Eletrônicos,5,350,1750,Gabriel,CE
+41,2025-05-02,Cadeira Gamer,Móveis,3,1200,3600,Eduardo,PE
+42,2025-12-11,Mesa Escritório,Móveis,3,800,2400,Gabriel,PR
+43,2025-11-03,Curso Online,Educação,2,500,1000,Eduardo,PE
+44,2025-11-15,Curso Online,Educação,2,500,1000,Fernanda,PE
+45,2025-07-01,Curso Online,Educação,2,500,1000,Gabriel,RJ
+46,2025-10-28,Livro Banco de Dados,Livros,2,120,240,Carlos,BA
+47,2025-12-01,Mesa Escritório,Móveis,4,800,3200,Igor,PB
+48,2025-06-04,Livro Python,Livros,5,90,450,Gabriel,PE
+49,2025-09-19,Mochila,Acessórios,4,180,720,Helena,BA
+50,2025-02-09,Smartphone,Eletrônicos,2,2200,4400,Helena,BA
+51,2025-06-19,Livro Banco de Dados,Livros,5,120,600,Bruno,PR
+52,2025-05-23,Smartphone,Eletrônicos,3,2200,6600,Eduardo,CE
+53,2025-07-12,Mesa Escritório,Móveis,2,800,1600,Helena,CE
+54,2025-04-07,Livro Banco de Dados,Livros,1,120,120,Daniela,PE
+55,2025-07-22,Notebook,Eletrônicos,3,3500,10500,Igor,PE
+56,2025-07-17,Livro Banco de Dados,Livros,2,120,240,Gabriel,MG
+57,2025-01-24,Teclado Mecânico,Eletrônicos,1,350,350,Daniela,RJ
+58,2025-10-17,Mesa Escritório,Móveis,4,800,3200,Bruno,RJ
+59,2025-06-08,Fone Bluetooth,Eletrônicos,3,250,750,Eduardo,SP
+60,2025-10-17,Livro Python,Livros,3,90,270,Eduardo,SP
+61,2025-01-20,Smartphone,Eletrônicos,3,2200,6600,Igor,BA
+62,2025-02-25,Notebook,Eletrônicos,2,3500,7000,Helena,RJ
+63,2025-01-22,Livro Banco de Dados,Livros,4,120,480,Eduardo,PE
+64,2025-01-03,Livro Banco de Dados,Livros,5,120,600,Eduardo,RJ
+65,2025-03-07,Mesa Escritório,Móveis,3,800,2400,Fernanda,PE
+66,2025-03-20,Notebook,Eletrônicos,3,3500,10500,Eduardo,PR
+67,2025-04-06,Mochila,Acessórios,4,180,720,Daniela,CE
+68,2025-04-24,Fone Bluetooth,Eletrônicos,1,250,250,Helena,MG
+69,2025-07-07,Livro Banco de Dados,Livros,4,120,480,Igor,PE
+70,2025-07-11,Livro Banco de Dados,Livros,1,120,120,Daniela,MG
+71,2025-12-14,Mesa Escritório,Móveis,1,800,800,Ana,PE
+72,2025-11-30,Mesa Escritório,Móveis,3,800,2400,Gabriel,PE
+73,2025-11-20,Curso Online,Educação,3,500,1500,Daniela,PR
+74,2025-12-03,Mesa Escritório,Móveis,5,800,4000,Bruno,SP
+75,2025-01-30,Mesa Escritório,Móveis,5,800,4000,Gabriel,BA
+76,2025-12-10,Fone Bluetooth,Eletrônicos,4,250,1000,Helena,PE
+77,2025-06-16,Teclado Mecânico,Eletrônicos,1,350,350,Carlos,PE
+78,2025-05-28,Notebook,Eletrônicos,1,3500,3500,Daniela,CE
+79,2025-04-25,Notebook,Eletrônicos,1,3500,3500,Carlos,RJ
+80,2025-06-07,Notebook,Eletrônicos,2,3500,7000,Gabriel,RJ
+81,2025-07-24,Livro Banco de Dados,Livros,3,120,360,Bruno,CE
+82,2025-01-01,Mesa Escritório,Móveis,2,800,1600,Gabriel,PR
+83,2025-06-26,Livro Python,Livros,1,90,90,Julia,BA
+84,2025-01-27,Mesa Escritório,Móveis,4,800,3200,Helena,MG
+85,2025-04-17,Mochila,Acessórios,4,180,720,Ana,BA
+86,2025-11-20,Livro Banco de Dados,Livros,1,120,120,Igor,PE
+87,2025-09-16,Fone Bluetooth,Eletrônicos,5,250,1250,Helena,PB
+88,2025-06-30,Notebook,Eletrônicos,1,3500,3500,Fernanda,MG
+89,2025-07-27,Livro Banco de Dados,Livros,4,120,480,Ana,SP
+90,2025-06-11,Livro Banco de Dados,Livros,1,120,120,Helena,BA
+91,2025-09-29,Curso Online,Educação,3,500,1500,Julia,PB
+92,2025-02-17,Livro Python,Livros,5,90,450,Helena,RJ
+93,2025-10-14,Mochila,Acessórios,3,180,540,Carlos,PE
+94,2025-01-24,Curso Online,Educação,2,500,1000,Eduardo,RJ
+95,2025-01-24,Curso Online,Educação,3,500,1500,Bruno,BA
+96,2025-09-22,Mochila,Acessórios,3,180,540,Ana,MG
+97,2025-04-07,Notebook,Eletrônicos,5,3500,17500,Fernanda,BA
+98,2025-07-07,Mochila,Acessórios,2,180,360,Julia,CE
+99,2025-03-19,Fone Bluetooth,Eletrônicos,3,250,750,Eduardo,RJ
+100,2025-09-21,Livro Banco de Dados,Livros,3,120,360,Fernanda,SP
+101,2025-03-28,Smartphone,Eletrônicos,3,2200,6600,Gabriel,SP
+102,2025-03-16,Livro Banco de Dados,Livros,4,120,480,Igor,SP
+103,2025-07-13,Cadeira Gamer,Móveis,5,1200,6000,Julia,PE
+104,2025-11-25,Notebook,Eletrônicos,3,3500,10500,Carlos,PE
+105,2025-10-30,Mochila,Acessórios,2,180,360,Eduardo,RJ
+106,2025-12-06,Livro Python,Livros,2,90,180,Julia,CE
+107,2025-05-15,Notebook,Eletrônicos,3,3500,10500,Julia,MG
+108,2025-06-09,Smartphone,Eletrônicos,5,2200,11000,Julia,BA
+109,2025-11-06,Curso Online,Educação,5,500,2500,Helena,PB
+110,2025-01-01,Teclado Mecânico,Eletrônicos,3,350,1050,Eduardo,SP
+111,2025-09-30,Mochila,Acessórios,2,180,360,Igor,CE
+112,2025-07-28,Teclado Mecânico,Eletrônicos,5,350,1750,Igor,PB
+113,2025-04-09,Smartphone,Eletrônicos,5,2200,11000,Igor,PR
+114,2025-12-12,Notebook,Eletrônicos,4,3500,14000,Gabriel,BA
+115,2025-10-04,Fone Bluetooth,Eletrônicos,5,250,1250,Gabriel,PE
+116,2025-01-20,Teclado Mecânico,Eletrônicos,1,350,350,Ana,PE
+117,2025-05-25,Livro Python,Livros,2,90,180,Carlos,PE
+118,2025-06-21,Curso Online,Educação,3,500,1500,Ana,CE
+119,2025-10-29,Mochila,Acessórios,3,180,540,Gabriel,PB
+120,2025-06-10,Cadeira Gamer,Móveis,4,1200,4800,Gabriel,RJ
+121,2025-10-05,Cadeira Gamer,Móveis,2,1200,2400,Igor,RJ
+122,2025-08-26,Teclado Mecânico,Eletrônicos,4,350,1400,Fernanda,PE
+123,2025-07-18,Livro Banco de Dados,Livros,4,120,480,Carlos,BA
+124,2025-03-10,Livro Python,Livros,4,90,360,Helena,SP
+125,2025-07-21,Fone Bluetooth,Eletrônicos,2,250,500,Carlos,PB
+126,2025-04-27,Curso Online,Educação,2,500,1000,Fernanda,PR
+127,2025-10-09,Curso Online,Educação,2,500,1000,Carlos,PE
+128,2025-07-18,Smartphone,Eletrônicos,1,2200,2200,Fernanda,CE
+129,2025-08-17,Mesa Escritório,Móveis,1,800,800,Bruno,PE
+130,2025-01-02,Livro Python,Livros,2,90,180,Julia,MG
+131,2025-10-29,Smartphone,Eletrônicos,3,2200,6600,Julia,PE
+132,2025-09-24,Mochila,Acessórios,1,180,180,Gabriel,SP
+133,2025-03-20,Mesa Escritório,Móveis,1,800,800,Gabriel,RJ
+134,2025-01-06,Teclado Mecânico,Eletrônicos,5,350,1750,Carlos,RJ
+135,2025-04-25,Fone Bluetooth,Eletrônicos,5,250,1250,Eduardo,BA
+136,2025-09-16,Teclado Mecânico,Eletrônicos,3,350,1050,Daniela,CE
+137,2025-02-11,Cadeira Gamer,Móveis,1,1200,1200,Julia,MG
+138,2025-07-28,Curso Online,Educação,2,500,1000,Igor,RJ
+139,2025-11-24,Mesa Escritório,Móveis,5,800,4000,Bruno,PR
+140,2025-05-17,Fone Bluetooth,Eletrônicos,2,250,500,Bruno,MG
+141,2025-10-31,Mesa Escritório,Móveis,5,800,4000,Fernanda,CE
+142,2025-01-25,Fone Bluetooth,Eletrônicos,1,250,250,Bruno,RJ
+143,2025-02-28,Notebook,Eletrônicos,5,3500,17500,Bruno,RJ
+144,2025-03-01,Notebook,Eletrônicos,1,3500,3500,Ana,SP
+145,2025-12-02,Curso Online,Educação,4,500,2000,Bruno,RJ
+146,2025-07-01,Livro Python,Livros,1,90,90,Carlos,RJ
+147,2025-09-07,Livro Banco de Dados,Livros,4,120,480,Ana,PB
+148,2025-05-30,Mesa Escritório,Móveis,1,800,800,Helena,BA
+149,2025-07-01,Fone Bluetooth,Eletrônicos,2,250,500,Daniela,RJ
+150,2025-04-28,Curso Online,Educação,2,500,1000,Carlos,PB
+151,2025-05-21,Curso Online,Educação,3,500,1500,Igor,PE
+152,2025-08-08,Teclado Mecânico,Eletrônicos,1,350,350,Fernanda,RJ
+153,2025-08-31,Livro Banco de Dados,Livros,2,120,240,Helena,SP
+154,2025-05-22,Smartphone,Eletrônicos,3,2200,6600,Ana,PE
+155,2025-08-19,Cadeira Gamer,Móveis,1,1200,1200,Fernanda,SP
+156,2025-06-16,Cadeira Gamer,Móveis,4,1200,4800,Bruno,BA
+157,2025-09-07,Livro Python,Livros,3,90,270,Igor,MG
+158,2025-01-28,Livro Python,Livros,2,90,180,Ana,BA
+159,2025-09-25,Smartphone,Eletrônicos,4,2200,8800,Julia,PB
+160,2025-11-05,Livro Python,Livros,3,90,270,Carlos,PB
+161,2025-01-02,Livro Banco de Dados,Livros,3,120,360,Helena,BA
+162,2025-07-01,Notebook,Eletrônicos,2,3500,7000,Bruno,MG
+163,2025-08-29,Livro Python,Livros,4,90,360,Igor,RJ
+164,2025-01-30,Mochila,Acessórios,4,180,720,Igor,BA
+165,2025-09-17,Smartphone,Eletrônicos,5,2200,11000,Ana,PE
+166,2025-03-24,Curso Online,Educação,4,500,2000,Bruno,BA
+167,2025-05-18,Teclado Mecânico,Eletrônicos,2,350,700,Fernanda,RJ
+168,2025-02-19,Curso Online,Educação,3,500,1500,Helena,CE
+169,2025-04-05,Notebook,Eletrônicos,5,3500,17500,Fernanda,CE
+170,2025-12-08,Smartphone,Eletrônicos,1,2200,2200,Daniela,PB
+171,2025-05-06,Cadeira Gamer,Móveis,1,1200,1200,Daniela,PE
+172,2025-12-16,Teclado Mecânico,Eletrônicos,1,350,350,Bruno,CE
+173,2025-11-17,Livro Python,Livros,5,90,450,Igor,PR
+174,2025-01-04,Curso Online,Educação,5,500,2500,Bruno,CE
+175,2025-03-02,Livro Python,Livros,1,90,90,Daniela,PB
+176,2025-10-07,Cadeira Gamer,Móveis,2,1200,2400,Helena,PB
+177,2025-07-16,Cadeira Gamer,Móveis,1,1200,1200,Helena,PE
+178,2025-10-07,Livro Banco de Dados,Livros,5,120,600,Igor,CE
+179,2025-06-26,Notebook,Eletrônicos,4,3500,14000,Carlos,PR
+180,2025-07-23,Curso Online,Educação,1,500,500,Carlos,PR
+181,2025-02-09,Teclado Mecânico,Eletrônicos,4,350,1400,Carlos,BA
+182,2025-05-08,Smartphone,Eletrônicos,3,2200,6600,Fernanda,SP
+183,2025-05-12,Fone Bluetooth,Eletrônicos,1,250,250,Fernanda,MG
+184,2025-10-15,Livro Banco de Dados,Livros,4,120,480,Bruno,CE
+185,2025-07-23,Cadeira Gamer,Móveis,3,1200,3600,Fernanda,SP
+186,2025-12-30,Fone Bluetooth,Eletrônicos,2,250,500,Gabriel,PR
+187,2025-04-03,Curso Online,Educação,5,500,2500,Eduardo,SP
+188,2025-01-07,Cadeira Gamer,Móveis,4,1200,4800,Fernanda,CE
+189,2025-02-07,Teclado Mecânico,Eletrônicos,2,350,700,Igor,RJ
+190,2025-01-21,Cadeira Gamer,Móveis,2,1200,2400,Carlos,PE
+191,2025-07-22,Livro Python,Livros,2,90,180,Ana,PB
+192,2025-04-15,Smartphone,Eletrônicos,5,2200,11000,Eduardo,MG
+193,2025-05-23,Mochila,Acessórios,2,180,360,Ana,RJ
+194,2025-12-17,Teclado Mecânico,Eletrônicos,1,350,350,Daniela,RJ
+195,2025-06-29,Curso Online,Educação,2,500,1000,Julia,MG
+196,2025-05-07,Livro Banco de Dados,Livros,5,120,600,Bruno,PR
+197,2025-09-18,Fone Bluetooth,Eletrônicos,5,250,1250,Gabriel,SP
+198,2025-08-27,Mesa Escritório,Móveis,1,800,800,Daniela,PR
+199,2025-05-03,Livro Python,Livros,5,90,450,Julia,MG
+200,2025-01-14,Notebook,Eletrônicos,1,3500,3500,Fernanda,PE
+201,2025-09-11,Mochila,Acessórios,2,180,360,Julia,RJ
+202,2025-03-25,Curso Online,Educação,1,500,500,Helena,MG
+203,2025-05-09,Livro Python,Livros,3,90,270,Eduardo,CE
+204,2025-07-10,Livro Banco de Dados,Livros,4,120,480,Ana,PR
+205,2025-01-04,Cadeira Gamer,Móveis,5,1200,6000,Daniela,PB
+206,2025-06-04,Notebook,Eletrônicos,5,3500,17500,Ana,CE
+207,2025-10-23,Curso Online,Educação,1,500,500,Daniela,PE
+208,2025-09-26,Livro Banco de Dados,Livros,1,120,120,Carlos,SP
+209,2025-04-08,Mesa Escritório,Móveis,4,800,3200,Daniela,PB
+210,2025-01-10,Cadeira Gamer,Móveis,4,1200,4800,Bruno,PR
+211,2025-05-24,Livro Banco de Dados,Livros,5,120,600,Daniela,PB
+212,2025-09-12,Notebook,Eletrônicos,2,3500,7000,Eduardo,MG
+213,2025-10-03,Notebook,Eletrônicos,2,3500,7000,Daniela,BA
+214,2025-03-03,Smartphone,Eletrônicos,4,2200,8800,Carlos,PB
+215,2025-01-08,Mochila,Acessórios,4,180,720,Helena,PE
+216,2025-03-10,Notebook,Eletrônicos,3,3500,10500,Gabriel,PB
+217,2025-02-12,Curso Online,Educação,5,500,2500,Gabriel,CE
+218,2025-08-17,Curso Online,Educação,3,500,1500,Igor,PR
+219,2025-03-13,Smartphone,Eletrônicos,1,2200,2200,Julia,PE
+220,2025-07-28,Curso Online,Educação,2,500,1000,Ana,PR
+221,2025-02-01,Livro Banco de Dados,Livros,4,120,480,Eduardo,MG
+222,2025-02-17,Livro Python,Livros,1,90,90,Julia,PB
+223,2025-01-11,Cadeira Gamer,Móveis,3,1200,3600,Helena,CE
+224,2025-09-17,Cadeira Gamer,Móveis,4,1200,4800,Helena,PR
+225,2025-09-07,Fone Bluetooth,Eletrônicos,4,250,1000,Gabriel,PB
+226,2025-12-16,Smartphone,Eletrônicos,4,2200,8800,Eduardo,SP
+227,2025-07-17,Mesa Escritório,Móveis,2,800,1600,Julia,SP
+228,2025-06-02,Notebook,Eletrônicos,3,3500,10500,Eduardo,PR
+229,2025-02-04,Teclado Mecânico,Eletrônicos,2,350,700,Helena,BA
+230,2025-05-03,Cadeira Gamer,Móveis,2,1200,2400,Igor,BA
+231,2025-08-19,Curso Online,Educação,2,500,1000,Igor,RJ
+232,2025-10-06,Cadeira Gamer,Móveis,3,1200,3600,Carlos,MG
+233,2025-05-05,Mesa Escritório,Móveis,4,800,3200,Carlos,BA
+234,2025-03-16,Smartphone,Eletrônicos,1,2200,2200,Ana,RJ
+235,2025-08-11,Livro Python,Livros,1,90,90,Carlos,PB
+236,2025-02-04,Livro Banco de Dados,Livros,1,120,120,Daniela,PB
+237,2025-07-22,Curso Online,Educação,3,500,1500,Fernanda,SP
+238,2025-02-19,Notebook,Eletrônicos,4,3500,14000,Daniela,PE
+239,2025-02-20,Curso Online,Educação,4,500,2000,Bruno,PR
+240,2025-11-12,Mesa Escritório,Móveis,5,800,4000,Helena,BA
+241,2025-12-07,Mochila,Acessórios,3,180,540,Eduardo,MG
+242,2025-05-13,Mesa Escritório,Móveis,1,800,800,Gabriel,CE
+243,2025-08-19,Cadeira Gamer,Móveis,1,1200,1200,Daniela,MG
+244,2025-03-22,Curso Online,Educação,5,500,2500,Carlos,MG
+245,2025-05-03,Livro Python,Livros,5,90,450,Carlos,PR
+246,2025-09-29,Notebook,Eletrônicos,1,3500,3500,Julia,CE
+247,2025-08-21,Notebook,Eletrônicos,2,3500,7000,Daniela,MG
+248,2025-05-17,Notebook,Eletrônicos,3,3500,10500,Bruno,PR
+249,2025-12-08,Livro Python,Livros,1,90,90,Bruno,SP
+250,2025-06-15,Notebook,Eletrônicos,2,3500,7000,Ana,MG
+251,2025-02-14,Cadeira Gamer,Móveis,5,1200,6000,Gabriel,PE
+252,2025-03-08,Fone Bluetooth,Eletrônicos,5,250,1250,Bruno,PR
+253,2025-03-18,Mochila,Acessórios,1,180,180,Igor,CE
+254,2025-01-16,Mesa Escritório,Móveis,1,800,800,Carlos,MG
+255,2025-12-15,Notebook,Eletrônicos,4,3500,14000,Helena,PR
+256,2025-02-19,Mochila,Acessórios,2,180,360,Daniela,MG
+257,2025-03-05,Livro Banco de Dados,Livros,3,120,360,Ana,SP
+258,2025-08-29,Smartphone,Eletrônicos,2,2200,4400,Bruno,MG
+259,2025-02-09,Livro Banco de Dados,Livros,2,120,240,Bruno,RJ
+260,2025-02-05,Fone Bluetooth,Eletrônicos,3,250,750,Julia,MG
+261,2025-11-12,Mochila,Acessórios,5,180,900,Ana,BA
+262,2025-11-16,Notebook,Eletrônicos,4,3500,14000,Gabriel,MG
+263,2025-11-12,Notebook,Eletrônicos,2,3500,7000,Daniela,BA
+264,2025-10-05,Livro Python,Livros,4,90,360,Daniela,RJ
+265,2025-12-31,Mochila,Acessórios,4,180,720,Julia,PE
+266,2025-06-04,Fone Bluetooth,Eletrônicos,4,250,1000,Eduardo,PE
+267,2025-06-17,Notebook,Eletrônicos,1,3500,3500,Igor,PE
+268,2025-06-11,Mesa Escritório,Móveis,1,800,800,Julia,MG
+269,2025-01-19,Curso Online,Educação,4,500,2000,Fernanda,MG
+270,2025-01-12,Livro Banco de Dados,Livros,3,120,360,Eduardo,PE
+271,2025-03-20,Livro Python,Livros,2,90,180,Eduardo,BA
+272,2025-07-11,Notebook,Eletrônicos,5,3500,17500,Gabriel,PE
+273,2025-01-19,Mochila,Acessórios,5,180,900,Eduardo,CE
+274,2025-03-05,Livro Banco de Dados,Livros,2,120,240,Helena,MG
+275,2025-11-13,Fone Bluetooth,Eletrônicos,1,250,250,Helena,SP
+276,2025-07-04,Smartphone,Eletrônicos,3,2200,6600,Fernanda,CE
+277,2025-03-28,Mochila,Acessórios,4,180,720,Ana,PR
+278,2025-09-16,Mesa Escritório,Móveis,3,800,2400,Daniela,RJ
+279,2025-12-22,Livro Python,Livros,4,90,360,Gabriel,CE
+280,2025-05-22,Livro Python,Livros,1,90,90,Julia,SP
+281,2025-08-20,Notebook,Eletrônicos,3,3500,10500,Daniela,RJ
+282,2025-12-04,Fone Bluetooth,Eletrônicos,3,250,750,Daniela,PR
+283,2025-06-26,Curso Online,Educação,1,500,500,Gabriel,BA
+284,2025-03-08,Notebook,Eletrônicos,5,3500,17500,Eduardo,BA
+285,2025-02-24,Smartphone,Eletrônicos,2,2200,4400,Eduardo,PB
+286,2025-05-20,Cadeira Gamer,Móveis,5,1200,6000,Julia,SP
+287,2025-01-01,Cadeira Gamer,Móveis,4,1200,4800,Ana,MG
+288,2025-01-23,Cadeira Gamer,Móveis,3,1200,3600,Bruno,CE
+289,2025-12-23,Curso Online,Educação,4,500,2000,Eduardo,MG
+290,2025-03-19,Mochila,Acessórios,5,180,900,Bruno,SP
+291,2025-09-02,Smartphone,Eletrônicos,5,2200,11000,Helena,CE
+292,2025-10-18,Livro Banco de Dados,Livros,3,120,360,Fernanda,RJ
+293,2025-04-03,Fone Bluetooth,Eletrônicos,3,250,750,Fernanda,PB
+294,2025-06-24,Livro Python,Livros,1,90,90,Daniela,SP
+295,2025-07-16,Livro Python,Livros,5,90,450,Eduardo,CE
+296,2025-06-08,Smartphone,Eletrônicos,3,2200,6600,Fernanda,SP
+297,2025-08-13,Mochila,Acessórios,1,180,180,Carlos,MG
+298,2025-09-24,Mesa Escritório,Móveis,5,800,4000,Fernanda,MG
+299,2025-08-20,Fone Bluetooth,Eletrônicos,5,250,1250,Carlos,PR
+300,2025-08-06,Teclado Mecânico,Eletrônicos,3,350,1050,Igor,RJ
+301,2025-10-02,Notebook,Eletrônicos,4,3500,14000,Gabriel,PB
+302,2025-05-28,Cadeira Gamer,Móveis,5,1200,6000,Gabriel,SP
+303,2025-03-25,Livro Python,Livros,1,90,90,Fernanda,SP
+304,2025-06-27,Mochila,Acessórios,2,180,360,Igor,PB
+305,2025-08-26,Mochila,Acessórios,4,180,720,Helena,PR
+306,2025-01-10,Livro Python,Livros,4,90,360,Bruno,SP
+307,2025-08-20,Mesa Escritório,Móveis,3,800,2400,Daniela,PB
+308,2025-04-30,Livro Banco de Dados,Livros,5,120,600,Fernanda,MG
+309,2025-11-14,Fone Bluetooth,Eletrônicos,3,250,750,Gabriel,BA
+310,2025-03-09,Fone Bluetooth,Eletrônicos,2,250,500,Fernanda,PB
+311,2025-06-05,Notebook,Eletrônicos,5,3500,17500,Bruno,PE
+312,2025-03-07,Mesa Escritório,Móveis,1,800,800,Carlos,BA
+313,2025-05-01,Fone Bluetooth,Eletrônicos,5,250,1250,Bruno,CE
+314,2025-06-12,Notebook,Eletrônicos,5,3500,17500,Fernanda,BA
+315,2025-01-11,Smartphone,Eletrônicos,2,2200,4400,Daniela,MG
+316,2025-02-17,Cadeira Gamer,Móveis,2,1200,2400,Eduardo,PB
+317,2025-12-25,Curso Online,Educação,1,500,500,Bruno,BA
+318,2025-05-09,Teclado Mecânico,Eletrônicos,2,350,700,Daniela,MG
+319,2025-12-20,Cadeira Gamer,Móveis,3,1200,3600,Igor,PR
+320,2025-05-07,Notebook,Eletrônicos,2,3500,7000,Helena,CE
+321,2025-11-29,Notebook,Eletrônicos,1,3500,3500,Daniela,PR
+322,2025-09-22,Teclado Mecânico,Eletrônicos,2,350,700,Daniela,PR
+323,2025-04-28,Notebook,Eletrônicos,5,3500,17500,Gabriel,CE
+324,2025-02-06,Cadeira Gamer,Móveis,2,1200,2400,Daniela,CE
+325,2025-05-11,Livro Python,Livros,5,90,450,Julia,SP
+326,2025-08-22,Mesa Escritório,Móveis,4,800,3200,Carlos,CE
+327,2025-05-24,Smartphone,Eletrônicos,1,2200,2200,Fernanda,PB
+328,2025-09-27,Smartphone,Eletrônicos,4,2200,8800,Carlos,SP
+329,2025-06-19,Cadeira Gamer,Móveis,5,1200,6000,Julia,MG
+330,2025-08-04,Livro Python,Livros,4,90,360,Gabriel,CE
+331,2025-05-18,Fone Bluetooth,Eletrônicos,1,250,250,Bruno,RJ
+332,2025-02-21,Mochila,Acessórios,5,180,900,Bruno,RJ
+333,2025-05-13,Fone Bluetooth,Eletrônicos,3,250,750,Bruno,PB
+334,2025-02-04,Livro Banco de Dados,Livros,4,120,480,Helena,PB
+335,2025-05-11,Livro Python,Livros,2,90,180,Helena,MG
+336,2025-09-26,Cadeira Gamer,Móveis,5,1200,6000,Igor,PE
+337,2025-12-10,Notebook,Eletrônicos,4,3500,14000,Gabriel,BA
+338,2025-08-31,Teclado Mecânico,Eletrônicos,1,350,350,Ana,PB
+339,2025-12-16,Mochila,Acessórios,3,180,540,Helena,MG
+340,2025-06-21,Livro Banco de Dados,Livros,1,120,120,Bruno,SP
+341,2025-09-13,Notebook,Eletrônicos,5,3500,17500,Helena,PE
+342,2025-10-22,Smartphone,Eletrônicos,1,2200,2200,Carlos,SP
+343,2025-03-03,Livro Python,Livros,3,90,270,Fernanda,BA
+344,2025-09-28,Teclado Mecânico,Eletrônicos,3,350,1050,Gabriel,CE
+345,2025-11-25,Mochila,Acessórios,4,180,720,Carlos,BA
+346,2025-09-30,Smartphone,Eletrônicos,5,2200,11000,Julia,MG
+347,2025-11-14,Mochila,Acessórios,1,180,180,Gabriel,SP
+348,2025-07-19,Curso Online,Educação,5,500,2500,Bruno,MG
+349,2025-01-20,Curso Online,Educação,5,500,2500,Carlos,SP
+350,2025-05-02,Cadeira Gamer,Móveis,3,1200,3600,Gabriel,RJ
+351,2025-02-08,Mochila,Acessórios,2,180,360,Igor,PB
+352,2025-11-16,Smartphone,Eletrônicos,2,2200,4400,Fernanda,MG
+353,2025-05-15,Livro Banco de Dados,Livros,2,120,240,Bruno,CE
+354,2025-10-19,Smartphone,Eletrônicos,4,2200,8800,Ana,BA
+355,2025-08-06,Fone Bluetooth,Eletrônicos,3,250,750,Fernanda,MG
+356,2025-12-20,Fone Bluetooth,Eletrônicos,2,250,500,Eduardo,MG
+357,2025-07-21,Mesa Escritório,Móveis,4,800,3200,Ana,RJ
+358,2025-11-17,Cadeira Gamer,Móveis,2,1200,2400,Bruno,CE
+359,2025-01-13,Curso Online,Educação,4,500,2000,Helena,BA
+360,2025-09-12,Mochila,Acessórios,4,180,720,Julia,MG
+361,2025-06-12,Teclado Mecânico,Eletrônicos,5,350,1750,Carlos,PE
+362,2025-11-09,Livro Python,Livros,1,90,90,Igor,SP
+363,2025-10-30,Notebook,Eletrônicos,4,3500,14000,Fernanda,PB
+364,2025-01-07,Mesa Escritório,Móveis,4,800,3200,Eduardo,BA
+365,2025-01-28,Mochila,Acessórios,2,180,360,Helena,PR
+366,2025-10-14,Mesa Escritório,Móveis,4,800,3200,Igor,MG
+367,2025-10-10,Smartphone,Eletrônicos,5,2200,11000,Julia,BA
+368,2025-12-17,Fone Bluetooth,Eletrônicos,5,250,1250,Helena,SP
+369,2025-11-12,Teclado Mecânico,Eletrônicos,4,350,1400,Julia,BA
+370,2025-08-03,Fone Bluetooth,Eletrônicos,2,250,500,Daniela,RJ
+371,2025-02-20,Teclado Mecânico,Eletrônicos,5,350,1750,Daniela,MG
+372,2025-04-22,Teclado Mecânico,Eletrônicos,2,350,700,Carlos,PB
+373,2025-10-01,Fone Bluetooth,Eletrônicos,4,250,1000,Ana,CE
+374,2025-03-04,Cadeira Gamer,Móveis,3,1200,3600,Carlos,CE
+375,2025-05-06,Fone Bluetooth,Eletrônicos,3,250,750,Helena,MG
+376,2025-08-11,Mesa Escritório,Móveis,3,800,2400,Helena,PR
+377,2025-01-10,Curso Online,Educação,2,500,1000,Carlos,PE
+378,2025-11-07,Cadeira Gamer,Móveis,4,1200,4800,Daniela,MG
+379,2025-04-23,Mesa Escritório,Móveis,2,800,1600,Bruno,BA
+380,2025-09-04,Curso Online,Educação,3,500,1500,Gabriel,SP
+381,2025-07-11,Smartphone,Eletrônicos,3,2200,6600,Igor,PR
+382,2025-04-16,Curso Online,Educação,1,500,500,Fernanda,MG
+383,2025-07-23,Livro Python,Livros,4,90,360,Bruno,MG
+384,2025-10-04,Teclado Mecânico,Eletrônicos,5,350,1750,Igor,RJ
+385,2025-08-03,Smartphone,Eletrônicos,4,2200,8800,Carlos,MG
+386,2025-01-21,Curso Online,Educação,5,500,2500,Igor,BA
+387,2025-02-05,Fone Bluetooth,Eletrônicos,2,250,500,Igor,PB
+388,2025-09-12,Notebook,Eletrônicos,3,3500,10500,Fernanda,BA
+389,2025-02-22,Livro Python,Livros,5,90,450,Eduardo,MG
+390,2025-05-09,Teclado Mecânico,Eletrônicos,2,350,700,Julia,MG
+391,2025-09-14,Teclado Mecânico,Eletrônicos,2,350,700,Julia,PE
+392,2025-07-29,Mochila,Acessórios,2,180,360,Gabriel,RJ
+393,2025-07-21,Notebook,Eletrônicos,2,3500,7000,Gabriel,PB
+394,2025-05-11,Livro Python,Livros,1,90,90,Carlos,PE
+395,2025-03-24,Curso Online,Educação,5,500,2500,Gabriel,PE
+396,2025-11-14,Livro Python,Livros,3,90,270,Fernanda,PB
+397,2025-07-29,Smartphone,Eletrônicos,4,2200,8800,Helena,RJ
+398,2025-05-21,Mesa Escritório,Móveis,4,800,3200,Igor,PR
+399,2025-04-17,Livro Banco de Dados,Livros,4,120,480,Fernanda,PR
+400,2025-09-13,Fone Bluetooth,Eletrônicos,1,250,250,Helena,PR
+401,2025-10-13,Livro Banco de Dados,Livros,3,120,360,Carlos,MG
+402,2025-09-01,Fone Bluetooth,Eletrônicos,1,250,250,Ana,PB
+403,2025-01-13,Livro Banco de Dados,Livros,3,120,360,Eduardo,BA
+404,2025-12-27,Smartphone,Eletrônicos,5,2200,11000,Ana,BA
+405,2025-05-08,Teclado Mecânico,Eletrônicos,1,350,350,Helena,PR
+406,2025-09-03,Curso Online,Educação,2,500,1000,Julia,SP
+407,2025-05-04,Livro Banco de Dados,Livros,4,120,480,Ana,SP
+408,2025-07-21,Teclado Mecânico,Eletrônicos,2,350,700,Carlos,RJ
+409,2025-03-26,Fone Bluetooth,Eletrônicos,5,250,1250,Julia,PR
+410,2025-07-27,Fone Bluetooth,Eletrônicos,5,250,1250,Helena,PB
+411,2025-08-17,Curso Online,Educação,5,500,2500,Gabriel,PE
+412,2025-05-11,Teclado Mecânico,Eletrônicos,2,350,700,Bruno,CE
+413,2025-01-18,Mochila,Acessórios,3,180,540,Ana,CE
+414,2025-08-20,Notebook,Eletrônicos,1,3500,3500,Daniela,PE
+415,2025-12-02,Fone Bluetooth,Eletrônicos,2,250,500,Eduardo,BA
+416,2025-12-18,Mochila,Acessórios,5,180,900,Fernanda,CE
+417,2025-12-18,Mesa Escritório,Móveis,2,800,1600,Daniela,RJ
+418,2025-01-11,Fone Bluetooth,Eletrônicos,2,250,500,Helena,SP
+419,2025-06-15,Livro Python,Livros,4,90,360,Igor,PB
+420,2025-06-22,Mesa Escritório,Móveis,1,800,800,Helena,PB
+421,2025-10-14,Livro Python,Livros,2,90,180,Carlos,CE
+422,2025-06-03,Livro Banco de Dados,Livros,5,120,600,Julia,CE
+423,2025-05-22,Livro Python,Livros,3,90,270,Ana,PR
+424,2025-02-23,Livro Python,Livros,5,90,450,Eduardo,RJ
+425,2025-07-12,Smartphone,Eletrônicos,4,2200,8800,Eduardo,PR
+426,2025-12-17,Livro Python,Livros,5,90,450,Igor,PB
+427,2025-01-02,Teclado Mecânico,Eletrônicos,3,350,1050,Carlos,PR
+428,2025-02-22,Curso Online,Educação,5,500,2500,Ana,MG
+429,2025-03-23,Notebook,Eletrônicos,1,3500,3500,Julia,RJ
+430,2025-08-13,Livro Banco de Dados,Livros,4,120,480,Bruno,SP
+431,2025-10-25,Mesa Escritório,Móveis,1,800,800,Julia,SP
+432,2025-11-08,Notebook,Eletrônicos,4,3500,14000,Fernanda,SP
+433,2025-01-26,Mochila,Acessórios,2,180,360,Daniela,RJ
+434,2025-11-17,Smartphone,Eletrônicos,3,2200,6600,Eduardo,SP
+435,2025-07-27,Mesa Escritório,Móveis,5,800,4000,Eduardo,PR
+436,2025-09-08,Smartphone,Eletrônicos,4,2200,8800,Bruno,PR
+437,2025-11-29,Mesa Escritório,Móveis,1,800,800,Julia,PE
+438,2025-08-24,Curso Online,Educação,4,500,2000,Igor,RJ
+439,2025-12-15,Teclado Mecânico,Eletrônicos,1,350,350,Ana,SP
+440,2025-08-17,Cadeira Gamer,Móveis,4,1200,4800,Carlos,MG
+441,2025-09-04,Smartphone,Eletrônicos,3,2200,6600,Fernanda,PE
+442,2025-03-14,Teclado Mecânico,Eletrônicos,3,350,1050,Igor,RJ
+443,2025-07-13,Mochila,Acessórios,5,180,900,Ana,PB
+444,2025-01-28,Livro Python,Livros,1,90,90,Gabriel,BA
+445,2025-05-03,Mesa Escritório,Móveis,1,800,800,Bruno,BA
+446,2025-12-03,Notebook,Eletrônicos,1,3500,3500,Ana,RJ
+447,2025-12-15,Fone Bluetooth,Eletrônicos,1,250,250,Eduardo,BA
+448,2025-10-27,Livro Python,Livros,1,90,90,Ana,PR
+449,2025-01-21,Livro Python,Livros,1,90,90,Igor,PB
+450,2025-03-14,Smartphone,Eletrônicos,2,2200,4400,Gabriel,MG
+451,2025-08-07,Curso Online,Educação,2,500,1000,Bruno,PB
+452,2025-09-15,Fone Bluetooth,Eletrônicos,1,250,250,Helena,MG
+453,2025-07-15,Mesa Escritório,Móveis,5,800,4000,Ana,CE
+454,2025-07-12,Mochila,Acessórios,4,180,720,Helena,MG
+455,2025-05-28,Curso Online,Educação,1,500,500,Ana,MG
+456,2025-01-19,Smartphone,Eletrônicos,4,2200,8800,Bruno,PE
+457,2025-08-09,Livro Python,Livros,1,90,90,Helena,BA
+458,2025-09-12,Notebook,Eletrônicos,3,3500,10500,Carlos,CE
+459,2025-08-04,Mesa Escritório,Móveis,3,800,2400,Daniela,PB
+460,2025-08-04,Livro Banco de Dados,Livros,3,120,360,Ana,MG
+461,2025-07-07,Notebook,Eletrônicos,4,3500,14000,Igor,RJ
+462,2025-11-18,Notebook,Eletrônicos,1,3500,3500,Eduardo,MG
+463,2025-07-31,Notebook,Eletrônicos,4,3500,14000,Carlos,RJ
+464,2025-04-28,Cadeira Gamer,Móveis,5,1200,6000,Fernanda,SP
+465,2025-03-17,Cadeira Gamer,Móveis,2,1200,2400,Ana,PR
+466,2025-10-22,Livro Banco de Dados,Livros,3,120,360,Daniela,PE
+467,2025-09-01,Curso Online,Educação,4,500,2000,Gabriel,RJ
+468,2025-05-26,Mesa Escritório,Móveis,3,800,2400,Daniela,BA
+469,2025-09-15,Teclado Mecânico,Eletrônicos,1,350,350,Fernanda,PB
+470,2025-12-14,Mesa Escritório,Móveis,5,800,4000,Igor,SP
+471,2025-07-14,Livro Banco de Dados,Livros,4,120,480,Bruno,SP
+472,2025-04-24,Livro Banco de Dados,Livros,1,120,120,Gabriel,SP
+473,2025-02-16,Livro Python,Livros,5,90,450,Fernanda,CE
+474,2025-10-11,Mesa Escritório,Móveis,1,800,800,Bruno,SP
+475,2025-05-04,Livro Banco de Dados,Livros,3,120,360,Carlos,SP
+476,2025-03-09,Fone Bluetooth,Eletrônicos,2,250,500,Igor,PR
+477,2025-08-04,Teclado Mecânico,Eletrônicos,1,350,350,Helena,RJ
+478,2025-05-15,Curso Online,Educação,1,500,500,Eduardo,SP
+479,2025-06-07,Livro Banco de Dados,Livros,5,120,600,Carlos,PE
+480,2025-12-21,Smartphone,Eletrônicos,1,2200,2200,Julia,PE
+481,2025-09-22,Mochila,Acessórios,4,180,720,Gabriel,RJ
+482,2025-11-17,Teclado Mecânico,Eletrônicos,2,350,700,Daniela,PE
+483,2025-03-21,Mesa Escritório,Móveis,2,800,1600,Fernanda,RJ
+484,2025-10-15,Cadeira Gamer,Móveis,4,1200,4800,Helena,CE
+485,2025-12-19,Teclado Mecânico,Eletrônicos,2,350,700,Julia,PR
+486,2025-03-26,Livro Banco de Dados,Livros,5,120,600,Helena,CE
+487,2025-07-19,Mesa Escritório,Móveis,5,800,4000,Carlos,RJ
+488,2025-09-14,Curso Online,Educação,4,500,2000,Ana,CE
+489,2025-06-02,Cadeira Gamer,Móveis,4,1200,4800,Bruno,RJ
+490,2025-08-16,Mesa Escritório,Móveis,3,800,2400,Bruno,CE
+491,2025-02-19,Curso Online,Educação,1,500,500,Fernanda,PR
+492,2025-03-26,Livro Python,Livros,2,90,180,Daniela,CE
+493,2025-12-26,Cadeira Gamer,Móveis,1,1200,1200,Carlos,PB
+494,2025-12-14,Fone Bluetooth,Eletrônicos,5,250,1250,Eduardo,RJ
+495,2025-08-23,Curso Online,Educação,5,500,2500,Igor,MG
+496,2025-06-01,Smartphone,Eletrônicos,1,2200,2200,Fernanda,PE
+497,2025-04-08,Curso Online,Educação,4,500,2000,Ana,BA
+498,2025-01-13,Mesa Escritório,Móveis,2,800,1600,Fernanda,PE
+499,2025-12-16,Notebook,Eletrônicos,5,3500,17500,Fernanda,PR
+500,2025-01-14,Cadeira Gamer,Móveis,2,1200,2400,Helena,RJ
