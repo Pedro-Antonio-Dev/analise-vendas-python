@@ -22,21 +22,6 @@ O projeto foi desenvolvido utilizando Python e bibliotecas de análise de dados,
 
 ---
 
-# 🗂️ Estrutura do Projeto
-│
-├── data/
-│ └── dataset_analise_vendas.csv
-│
-├── notebooks/
-│ └── analise_vendas.ipynb
-│
-├── requirements.txt
-│
-└── README.md
-
-
----
-
 ## 📊 Classificação de Vendas
 
 Criação de uma classificação baseada no desempenho das vendas:
